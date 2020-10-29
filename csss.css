@@ -1,0 +1,15 @@
+body, html {
+  height: 100%;
+}
+.br {
+  /* The image used */
+  background-image: url("imgg.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
